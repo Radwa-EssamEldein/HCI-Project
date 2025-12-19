@@ -11,19 +11,29 @@ The original application suffered from poor screen space utilization, repetitive
 
 **(Objectives)**
 ▪️Improve visual hierarchy and clarity
+
 ▪️Reduce redundancy and cognitive load
+
 ▪️Increase user control over package renewal and upgrades
+
 ▪️Provide fast and accessible support in critical scenarios
+
 
 **(Scope)**
 The redesign covers four main screens:
+
 ▪️Home Page
+
 ▪️Package Renewal & Upgrade Page
+
 ▪️AI Chatbot Support Page
+
 ▪️No Internet Access Page
+
 
 **(Approach & Solution)**
 The redesign applies HCI principles to simplify user flows, highlight key actions, integrate AI-powered support, and provide actionable solutions when internet access is unavailable.
+
 
 **(Impact)**
 The redesigned experience reduces user frustration, enables faster decision-making, improves support accessibility, and delivers a more user-centered and reliable application.
