@@ -10,6 +10,7 @@ This project focuses on redesigning key screens in the My WE mobile application 
 The original application suffered from poor screen space utilization, repetitive information, unclear package renewal flows, limited support access, and the inability to complete critical tasks without an internet connection.
 
 **(Objectives)**
+
 ▪️Improve visual hierarchy and clarity
 
 ▪️Reduce redundancy and cognitive load
@@ -20,6 +21,7 @@ The original application suffered from poor screen space utilization, repetitive
 
 
 **(Scope)**
+
 The redesign covers four main screens:
 
 ▪️Home Page
